@@ -22,4 +22,4 @@ For major changes  , please open an issue first to discuss  what you would like 
 please make sure to update tests as appropriate. 
 
 # License 
-[MIT] (https://www.linkedin.com/in/sherifsameh/) 2020 License ![](https://commonmark.org/help/images/favicon.png)
+[MIT](https://www.linkedin.com/in/sherifsameh/) 2020 License ![](https://i.imgur.com/2pGPLrl.png)
