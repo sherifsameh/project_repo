@@ -3,12 +3,12 @@ Foobar is a python library for dealing with word plurazlization.
 
 # Installtion 
 use the package manager [pip](https://pypi.org/project/django-foobar) to install Foobar   
-````python
+````Python
 pip install Foobar 
 ````
 # Usage 
 
-````````````ruby
+````````````Python
 import foobar 
 
 foorbar.pluralize('word')    # rerutns 'words'  
