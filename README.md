@@ -8,7 +8,7 @@ pip install Foobar
 ````
 # Usage 
 
-````````````python
+````````````ruby
 import foobar 
 
 foorbar.pluralize('word')    # rerutns 'words'  
